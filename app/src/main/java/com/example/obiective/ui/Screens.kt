@@ -151,7 +151,7 @@ fun AboutScreen() {
     ) { padding ->
         Column(Modifier.padding(padding).padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             Text("Ghid turistic Maramureș", style = MaterialTheme.typography.headlineSmall)
-            Text("Autor: NUME PRENUME")          // TODO
+            Text("Autor: COSTIN ANDREI")          // TODO
             Text("Versiune: 1.0")
             Text("Aplicație demonstrativă pentru navigare cu Jetpack Compose (Navigation Compose, rute type-safe).")
         }
